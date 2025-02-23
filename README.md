@@ -47,8 +47,8 @@ This resources are from the folder init, variable and expansions:
 [Rot 13](https://wiki.linuxquestions.org/wiki/Rot13)
 
 
-Lizbeth Garcia Lebron (Creator) 
+Fahd Challadia (Creator) 
 
-Proyects from the week September 20, 2022 - September 23, 2022 (BASIC)
+Proyects from the week February 5, 2022 - February 7, 2025 (BASIC)
 
-Proyects from the week September 26, 2022 - September 30, 2022 (Shell permissions, I/O Redirections and filters, Init files variables and expansions)
+Proyects from the week February 10, 2025 - February 14, 2025 (Shell permissions, I/O Redirections and filters, Init files variables and expansions)
