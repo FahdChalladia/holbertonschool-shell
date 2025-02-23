@@ -49,6 +49,6 @@ This resources are from the folder init, variable and expansions:
 
 Fahd Challadia (Creator) 
 
-Proyects from the week February 5,  2025 - February 7, 2025 (BASIC)
+Projects from the week February 5,  2025 - February 7, 2025 (BASIC)
 
-Proyects from the week February 10, 2025 - February 14, 2025 (Shell permissions, I/O Redirections and filters, Init files variables and expansions)
+Projects from the week February 10, 2025 - February 14, 2025 (Shell permissions, I/O Redirections and filters, Init files variables and expansions)
