@@ -31,6 +31,6 @@ This are some of the resources that help me with the understanding and completio
 
 [Manipulating Files](http://linuxcommand.org/lc3_lts0050.php)
 
-Lizbeth Garcia Lebron (Creator)
+Fahd Challadia (Creator)
 
-Proyects from the week September 21, 2022 - September 23, 2022.
+Projects from the week February 5, 2025 - February 7, 2025.
