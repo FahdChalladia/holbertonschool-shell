@@ -31,6 +31,6 @@
 ### Resources
 [How to display specific lines of a file in Linux Command Line](https://linuxhandbook.com/display-specific-lines/)
 
-Lizbeth Garcia Lebron (Creator)
+Fahd Challadia (Creator)
 
-Proyects from the week September 26, 2022 - September 30, 2022
+Projects from the week February 10, 2025 - February 14, 2025.
