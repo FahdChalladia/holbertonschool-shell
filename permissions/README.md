@@ -34,3 +34,6 @@ Task 14 **[chown vincent:staff ./*]** Write a script that changes the owner to v
 Task 15 **[chown -h  vincent:staff _hello]** Write a script that changes the owner and the group owner of _hello to vincent and staff respectively.
 
 Task 16 **[chown --from=guillaume vincent hello]** Write a script that changes the owner of the file hello to vincent only if it is owned by the user guillaume.
+
+Fahd Challadia (Creator)
+Projects from the week February 10, 2025 - February 14, 2025.
