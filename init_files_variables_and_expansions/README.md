@@ -22,6 +22,7 @@ Each file here is a script that execute a basuc command from the shell.
 
 ### Resources:
 
-Lizbeth Garcia Lebron (Creator)
 
-Proyects from September 26, 2022 - September 30, 2022
+Fahd Challadia (Creator)
+
+Projects from the week February 10, 2025 - February 14, 2025.
